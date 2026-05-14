@@ -14,7 +14,5 @@ You can click the Preview link to take a look at your changes.
 1. 摄影培训班
 
 ### 正在做这些事情：
-1. 写一本关于流量的书
-1. 用python解决数据问题
-1. 用python解决自动化办公问题
-1. 做抖音平台营销工具
+1. 做几个AI+3D打印的落地项目
+1. 做skills
